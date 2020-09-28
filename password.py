@@ -24,7 +24,7 @@ def passwordcheck(password):
         print("Weak Password")
         return False
     else:
-        print("strong password")
+        print("Strong password")
         return True
 
 
